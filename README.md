@@ -1,2 +1,0 @@
-# lerna-test
-lerna-test
