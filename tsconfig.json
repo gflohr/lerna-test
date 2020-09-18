@@ -2,10 +2,6 @@
     "extends": "./tsconfig.build.json",
   
     "compilerOptions": {
-      "baseUrl": ".",
-      "paths": {
-        "@packages/*": ["packages/*/src"]
-      },
       "jsx": "react",
       "esModuleInterop": true,
       "skipLibCheck": true,
